@@ -12,7 +12,7 @@ body
   overflow-y: auto;
   background-size: 100% 100%;
 
-  background: #0B0C10;
+  background: #ffffff;
 }
 
 /*.offset-md-3{
@@ -27,7 +27,7 @@ body
 #loader{
   height: 100%;
   width: 100%;
-  background-color: #191F26;
+  background-color: #ffffff;
   position: fixed;
   top: 50%;
   left: 50%;
@@ -52,7 +52,7 @@ hr{
 }
 
 #particles-js{
-  background: rgb(40, 41, 49);
+  background: #ffffff;
   position: absolute;
   width: 100%;
   height: 100vh;
@@ -163,7 +163,7 @@ a:hover
 
 .particle-text{
   overflow: hidden;
-  color: rgb(232, 73, 77) !important;
+  color: #00d1ff !important;
   padding-top: 25px;
   letter-spacing: -2px;
   font-weight: 700;
@@ -277,7 +277,7 @@ header{
 }
 
 .menu li a:hover{
-  background: #fff;
+  background: #ffffff;
   color: #15215d;
 }
 
@@ -319,7 +319,7 @@ header{
 {
   font-weight: bold;
   font-size: 24px;
-  color:  #00ffff;
+  color:  #00d1ff;
   letter-spacing: 1px;
 }
 
@@ -329,7 +329,7 @@ header{
 
 h1{
   /*font-size: 40px;*/
-  color:  #00ffff;
+  color:  #00d1ff;
   margin-top: 0;
   font-weight: 300 !important;
 }
@@ -358,7 +358,7 @@ p{
 }
 
 .btn:hover{
-  color:  #00ffff !important;
+  color:  #00d1ff !important;
   /*background: #fff !important;*/
   /*border: 1px solid #2870db;*/
 }
@@ -477,7 +477,7 @@ p{
 }
 
 .post_tags::before{
-  background: rgb(40, 41, 49);
+  background: #00d1ff;
   border-radius: 10px;
   box-shadow: inset 0 1px rgba(0, 0, 0, 0.25);
   content: '';
@@ -489,7 +489,7 @@ p{
 }
 
 .post_tags::after{
-  background: rgb(40, 41, 49);
+  background: #00d1ff;
   border-bottom: 13px solid transparent;
   border-left: 10px solid rgb(232, 73, 77);
   border-top: 13px solid transparent;
@@ -500,12 +500,12 @@ p{
 }
 
 .post_tags:hover{
-  background-color: rgb(255, 108, 108);
+  background-color: #00d1ff;
   color: white !important;
 }
 
 .post_tags:hover::after{
-  border-left-color: rgb(255, 108, 108);
+  border-left-color: #00d1ff;
 }
 
 .post_return_home_btn{
