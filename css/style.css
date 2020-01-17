@@ -157,7 +157,7 @@ a:link, a:active, a:visited{
 
 a:hover
 {
-  color: rgb(255, 108, 108) !important;
+  color: #00ffff !important;
   text-decoration: none !important;
 }
 
@@ -319,7 +319,7 @@ header{
 {
   font-weight: bold;
   font-size: 24px;
-  color: #2C3545;
+  color:  #00ffff;
   letter-spacing: 1px;
 }
 
@@ -329,7 +329,7 @@ header{
 
 h1{
   /*font-size: 40px;*/
-  color: #2C3545;
+  color:  #00ffff;
   margin-top: 0;
   font-weight: 300 !important;
 }
@@ -358,7 +358,7 @@ p{
 }
 
 .btn:hover{
-  color: #2870db !important;
+  color:  #00ffff !important;
   /*background: #fff !important;*/
   /*border: 1px solid #2870db;*/
 }
